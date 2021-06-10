@@ -1,6 +1,6 @@
 certifi==2018.4.16
 chardet==3.0.4
-django==2.0.3
+django==2.2.24
 django-admin-view-permission==1.6
 idna==2.6
 pipenv==2018.5.18
