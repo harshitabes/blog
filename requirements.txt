@@ -4,7 +4,7 @@ django==2.0.3
 django-admin-view-permission==1.6
 idna==2.6
 pipenv==2018.5.18
-PyJWT==1.6.4
+PyJWT==2.4.0
 PySocks==1.6.8
 pytz==2018.3
 requests==2.18.4
